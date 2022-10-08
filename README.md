@@ -7,7 +7,7 @@ npm -v
 node -v
 v16.17.1 
 
-
+-------------------------------------------
 npm install lite-server --save-dev
 
 # Inside package.json...
@@ -16,3 +16,8 @@ npm install lite-server --save-dev
   },
 
   npm run dev
+
+-------------------------------------------
+  npm install bootstrap --save
+  npm install jquery --save
+  npm install popper --save
