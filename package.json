@@ -1,0 +1,19 @@
+{
+  "name": "hotels_guide",
+  "version": "1.0.0",
+  "description": "practices project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peedpy/hotels_guide.git"
+  },
+  "author": "Pablo Escobar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peedpy/hotels_guide/issues"
+  },
+  "homepage": "https://github.com/peedpy/hotels_guide#readme"
+}
